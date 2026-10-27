@@ -1,3 +1,3 @@
 # Bid Vault
 
-Private app. Access is by invitation only.
+This old version has been switched off. Bid Vault has moved.
