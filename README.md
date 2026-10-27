@@ -1,2 +1,3 @@
-# bidvault
-cj the dev built this shit brick by brick ho
+# Bid Vault
+
+Private app. Access is by invitation only.

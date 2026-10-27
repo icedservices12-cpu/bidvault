@@ -1,0 +1,27 @@
+{
+ "name": "Bid Vault",
+ "short_name": "Bid Vault",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#0c1729",
+ "theme_color": "#0c1729",
+ "description": "Every bid. Every file. One place.",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}
